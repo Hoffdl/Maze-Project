@@ -15,12 +15,12 @@
   - SDL2 and its sdl_image
 # Installation
 
- - Sdl2 installation
-Download the installation script [install_SDL2.sh](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/graphics_programming/install_SDL2.sh) and run it in your ubuntu Terminal as follows:
-`root@h:cd ~/Downloads$ ls`
-`install_SDL2.sh`
-`root@h:cd ~/Downloads$chmod 755 install_SDL2.sh`
-`root@h:cd ~/Downloads$sudo ./install_SDL2.sh`
+## Sdl2 installation
+  - Download the installation script [install_SDL2.sh](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/graphics_programming/install_SDL2.sh) and run it in your ubuntu Terminal as follows:
+- `root@h:cd ~/Downloads$ ls`
+- `install_SDL2.sh`
+- `root@h:cd ~/Downloads$chmod 755 install_SDL2.sh`
+- `root@h:cd ~/Downloads$sudo ./install_SDL2.sh`
 
 # Play the game
  - clone the [github repository](https://github.com/Hoffdl/Maze-Project.git)
