@@ -4,8 +4,10 @@
 
 - This MazeGame is a mini project written in C programming language using SDL2 Library that gives the user a virtual interface well laced with critical functionalities enabling robust movement and interactions.
 
-- The development of this maze game  was performed using Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4.
-- This maze game runs on Mac OS X and Linux/Ubuntu.
+- The development of this maze game  was performed using codeblocks with the required SDL2 Libraries.
+
+- The game is also funtional on an Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4.
+- This maze game runs on all platforms Windows, Mac OS X and Linux/Ubuntu.
 # About SDL2
 ![Maze Game](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-24ykcYYrPI2xlWn2HdSFA.png)
 - Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games. for more information on [SDL2](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)
